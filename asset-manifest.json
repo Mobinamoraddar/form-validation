@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mobinamoraddar/form-validation/static/css/main.ada79ba8.css",
-    "main.js": "/Mobinamoraddar/form-validation/static/js/main.5c1fa030.js",
-    "index.html": "/Mobinamoraddar/form-validation/index.html",
-    "main.ada79ba8.css.map": "/Mobinamoraddar/form-validation/static/css/main.ada79ba8.css.map",
-    "main.5c1fa030.js.map": "/Mobinamoraddar/form-validation/static/js/main.5c1fa030.js.map"
+    "main.css": "/form-validation/static/css/main.ada79ba8.css",
+    "main.js": "/form-validation/static/js/main.ef782392.js",
+    "index.html": "/form-validation/index.html",
+    "main.ada79ba8.css.map": "/form-validation/static/css/main.ada79ba8.css.map",
+    "main.ef782392.js.map": "/form-validation/static/js/main.ef782392.js.map"
   },
   "entrypoints": [
     "static/css/main.ada79ba8.css",
-    "static/js/main.5c1fa030.js"
+    "static/js/main.ef782392.js"
   ]
 }
